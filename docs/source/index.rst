@@ -1,14 +1,15 @@
-Basic Starter Kit for UNO R4 WiFi
-===========================================
-
+ESP32 智能家居小屋教程
+===========================
 
 .. toctree::
    :maxdepth: 2
 
-   Get_Started_with_Arduino/Get_Started_with_Arduino
-   Project/Project
-
-
+   Introduction
+   Hardware
+   Wiring
+   Functions
+   WebControl
+   Code
 
 Indices and tables
 ==================
