@@ -12,5 +12,10 @@
 - RFID 刷卡开门
 - LCD1602 状态显示
 - Web 网页远程控制
+这是 Arduino UNO R4 WiFi 开发板：
 
+.. image:: _static/tree.png
+   :alt: tree
+   :align: center
+   :width: 300px
 系统支持多种交互方式，可作为一个完整的 **IoT 智能家居实验平台**。
