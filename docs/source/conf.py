@@ -11,7 +11,7 @@ from pygments.lexers import Python3Lexer
 import time
 
 project = 'smart_home'
-copyright = '2024,Bot'
+copyright = '2025_Cola'
 author = 'Cola'
 
 # -- General configuration ---------------------------------------------------
