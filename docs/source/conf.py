@@ -10,9 +10,9 @@
 from pygments.lexers import Python3Lexer
 import time
 
-project = 'Basic Starter Kit for Arduino UNO R4 WiFi'
+project = 'smart_home'
 copyright = '2024,Bot'
-author = 'Bot'
+author = 'Cola'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
